@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS pension_grant_db;
 CREATE DATABASE pension_grant_db;
 USE pension_grant_db;
 
